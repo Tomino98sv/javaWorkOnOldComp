@@ -1,0 +1,3 @@
+interface methody {
+    void zavriet();
+}
